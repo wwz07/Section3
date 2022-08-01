@@ -14,3 +14,7 @@ hr{
 h1,h3{
     color:#6E85B7;
 }
+
+img{
+    border-radius: 100%;
+}
